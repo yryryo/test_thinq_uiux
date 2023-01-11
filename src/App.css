@@ -1,5 +1,40 @@
+.mode{
+  background-color : lightcoral;
+  width : 400px;
+  height : 200px;
+  margin : auto;
+}
+
+.scan{
+  background-color : lightblue;
+  border-color: black;
+  width : 400px;
+  height : 150px;
+  margin : auto;
+}
+
+.recipe{
+  background-color : lightpink;
+  border-color: black;
+  width : 400px;
+  height : 150px;
+  margin : auto;
+}
+
+.prepare{
+  background-color : lightgray;
+  border-color: black;
+  width : 400px;
+  height : 200px;
+  margin : auto;
+}
+
 .App {
   text-align: center;
+  width : 450px;
+  height : 800px;
+  border-color: black;
+  border-style: solid;
 }
 
 .App-logo {
