@@ -25,14 +25,14 @@
   background-color : lightgray;
   border-color: black;
   width : 400px;
-  height : 200px;
+  height : 220px;
   margin : auto;
 }
 
 .App {
   text-align: center;
   width : 450px;
-  height : 800px;
+  height : 850px;
   border-color: black;
   border-style: solid;
 }
